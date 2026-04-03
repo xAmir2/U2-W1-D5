@@ -204,6 +204,7 @@ main {
 
 #sectTrending {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 2em;
 }
@@ -211,8 +212,8 @@ main {
 .trendingContainers {
   display: flex;
   align-items: baseline;
-  width: 400px;
-}
+  width: 31%;
+  }
 
 .trendingNum {
   font-size: 2em;
